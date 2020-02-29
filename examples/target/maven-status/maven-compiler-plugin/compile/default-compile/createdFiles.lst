@@ -1,0 +1,6 @@
+com\thirdlucky\examples\mapreduce\wordcount\WordCountMapper.class
+com\thirdlucky\examples\mapreduce\phoneflow\PhoneFlow.class
+com\thirdlucky\examples\mapreduce\phoneflow\PhoneFlowMapper.class
+com\thirdlucky\examples\mapreduce\wordcount\WordCountReducer.class
+com\thirdlucky\examples\mapreduce\phoneflow\PhoneFlowReducer.class
+com\thirdlucky\examples\mapreduce\Driver.class
